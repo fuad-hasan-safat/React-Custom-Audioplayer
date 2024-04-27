@@ -1,0 +1,16 @@
+
+  
+  button {
+    margin: 5px;
+  }
+  
+
+  button.active{
+    background-color: rgb(240, 238, 243);
+  }
+
+  
+  /* styles.css */
+.progress-bar {
+  background-color: #fdcb43 !important;
+}
